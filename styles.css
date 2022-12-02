@@ -1,0 +1,245 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.place,
+.date,
+.main-title2 {
+  font-family: sans-serif;
+}
+
+.card-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.main-intro {
+  color: #ec5242;
+}
+
+.guides-card-img {
+  background-image: url(./assets/mobile/guides/chess-white.png);
+  background-repeat: no-repeat;
+  background-size: 45% 45%;
+  margin: 0;
+}
+
+.sprs-info {
+  font-size: 14px;
+  font-weight: 400;
+  color: #272a31;
+}
+
+.guides-img {
+  height: 100%;
+  width: 90%;
+  position: relative;
+  bottom: 0;
+  padding-left: 17px;
+  object-fit: cover;
+  padding-top: 22px;
+  margin: 0;
+  border-radius: 0;
+}
+
+.about-me {
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-color: #272a31;
+  z-index: 2;
+}
+
+.programs {
+  background-color: rgb(73, 73, 73);
+  color: aliceblue;
+}
+
+.sponsors {
+  background-color: rgb(39, 39, 39);
+}
+
+.programs-head {
+  color: #ec5242;
+}
+
+.main-title,
+.nav-list {
+  background-image: url(./assets/mobile/kcspv649fprpg07q.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.join-us {
+  background-color: #ec5242;
+  color: white;
+  padding: 23px;
+  align-items: center;
+}
+
+.header-item {
+  color: #d3d3d3;
+}
+
+.header-item:hover {
+  color: #ec5242;
+}
+
+.bordered {
+  border: #ec5242 3px solid;
+}
+
+.main-header {
+  color: white;
+}
+
+.educations {
+  margin-bottom: 37px;
+}
+
+.show-more {
+  border: 1px solid #272a31;
+}
+
+.main-sub-container {
+  background-color: #d3d3d3;
+  border: 3px solid white;
+}
+
+.card-text {
+  color: #ec5242;
+  font-size: 13px;
+  line-height: 17px;
+}
+
+.more-description {
+  color: #272a31;
+  font-style: italic;
+}
+
+.gray-bar,
+.red-bar {
+  width: 27px;
+  height: 3px;
+  background-color: #d3d3d3;
+  display: block;
+  border-radius: 2px;
+}
+
+.red-bar {
+  background-color: #ec5242;
+  width: 49px;
+}
+
+.desktop-background {
+  background-image: url(./assets/mobile/mobile-background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 100%;
+}
+
+.desktop-header {
+  background-color: rgb(66, 66, 66);
+  color: white;
+}
+
+.desktop-nav-item {
+  color: rgb(129, 129, 129);
+}
+
+.desktop-nav-item:hover {
+  color: #ec5242;
+}
+
+.bi-chevron-down,
+.bi-chevron-up {
+  color: #ec5242;
+}
+
+.mobile-nav {
+  display: flex;
+}
+
+.mobile-nav.active {
+  display: block;
+  position: fixed;
+  z-index: 30;
+}
+
+.bar {
+  display: flex;
+  width: 33px;
+  height: 3px;
+  margin: 5px auto;
+  background-color: #272a31;
+}
+
+.hamburger-icon {
+  display: block;
+}
+
+.hamburger-icon.active {
+  position: absolute;
+  top: 10px;
+}
+
+.hamburger-icon.active .bar:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger-icon.active .bar:nth-child(1) {
+  transform: translateY(8px) rotate(45deg);
+}
+
+.hamburger-icon.active .bar:nth-child(3) {
+  transform: translateY(-8px) rotate(-45deg);
+}
+
+.mobile-nav-state {
+  display: none;
+}
+
+.mobile-nav-state.active {
+  display: flex;
+  height: 100vh;
+}
+
+.logo.active {
+  display: none;
+}
+
+.nav-list {
+  width: 100%;
+  display: block;
+  align-content: center;
+  background-image: url(./assets/mobile/41900485034_381b372d35_b.jpg);
+}
+
+@media screen and (min-width: 678px) {
+  .section {
+    border: 0 solid;
+  }
+
+  .section:hover {
+    border: 2px solid white;
+  }
+
+  .join-us {
+    background-color: unset;
+    color: #d3d3d3;
+    text-decoration: underline;
+  }
+
+  .guides-card-img {
+    background-image: url(./assets/mobile/guides/chess-dark.jpg);
+  }
+}
