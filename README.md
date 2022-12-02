@@ -16,6 +16,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+  - [ 🚀 Loom video](#Loom-video)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -44,7 +45,15 @@
 
 
 
-> ** This Toursim website is a final capstone project that i have created basing on the given behance layout I modified some parts which was allowed like pictures and icons I did the 2 home pages as sugested in the project requirements and added other requirements explained in the video **
+> ** This Toursim website is a final capstone project that i have created basing on the given behance layout I modified some parts which was allowed like pictures and icons I did the 2 home pages as sugested in the project requirements and added other requirements explained in the video ** 
+
+
+
+## 🚀 Loom video <a name="Loom-video"></a>
+
+>[loom demo link](https://www.loom.com/share/27f1dd8d70db43c882abd0aae566e831)
+
+
  
 
 **[ preserve_data_in_the_browser]** is a...
@@ -76,15 +85,11 @@
   </ul>
 </details>
 
-**This is not a  full   website. It's just a  web look alike based on the figma design we were provided.**
-**The form section is constructed so that they will be no submission if the email and full name inputs are not available**
- preserve-data-in-the-browser
- 
-**In here I added a popup windo which apears when you click on the see project of the cards**
+
  
 
 
-**[Portofolio_form_validation]** is a...
+**[Tourism website]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -131,7 +136,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://ijosue16.github.io/Tourism-website/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
