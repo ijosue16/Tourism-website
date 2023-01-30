@@ -45,7 +45,9 @@
 
 
 
-> ** This Toursim website is a final capstone project that i have created basing on the given behance layout I modified some parts which was allowed like pictures and icons I did the 2 home pages as sugested in the project requirements and added other requirements explained in the video ** 
+> **This Toursim website is a final capstone project that i have created basing on the given behance layout I modified some parts which was allowed like pictures and icons I did the 2 home pages as sugested in the project requirements and added other requirements explained in the video** 
+
+
 
 
 
@@ -56,13 +58,14 @@
 
  
 
-**[ preserve_data_in_the_browser]** is a...
+
+**[Tourism website]** is a website which helps tourists who are visiting Brasil to locate good places and also offers tourists guides who can help them to get a full experience of the Brazilian culture and beauty.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>tech 1</summary>
@@ -86,47 +89,13 @@
 </details>
 
 
- 
-
-
-**[Tourism website]** is a...
-
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>tech 1</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>tech 2</summary>
-  <ul>
-    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>tech 3</summary>
-  <ul>
-    <li><a href="https://www.javascripttutorial.net/">JavaScript</a></li>
-  </ul>
-</details>
-
-
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Desktop and mobile navigation]**
+- **[Home and about pages]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +103,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://ijosue16.github.io/Tourism-website/)
 
@@ -144,8 +112,6 @@
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -181,19 +147,20 @@ Install this project with:
 
 To run the project, execute the following command:
 
-
-
+`npm start`
 
 ### Run tests
 
 To run tests, run the following command:
 
+`npm run  test`
 
 
 ### Deployment
 
 You can deploy this project using:
 
+Github web pages.
 
 
 
@@ -203,7 +170,7 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+
 
 👤 **Author1**
 
@@ -219,23 +186,14 @@ You can deploy this project using:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[local storage in web browser]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ## 🤝 Contributing <a name="contributing"></a>
-
-
-🔭 Future Features
-Describe 1 - 3 features you will add to the project.
-
- [local storage in web browser]
-
-## 🤝 Contributing
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
@@ -247,7 +205,7 @@ Feel free to check the issues page.
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+
 
 If you like this project...
 
@@ -257,9 +215,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -269,13 +225,9 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[Is it free to use such website]**
 
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  - [Yes.After reaching me out on my email or slack]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
