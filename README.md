@@ -3,10 +3,10 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://thumbs.dreamstime.com/b/tourists-hikers-traveling-trekking-backpacks-big-letters-tourism-cartoon-vector-illustration-summer-adventure-hiking-176967526.jpg" alt="logo" width="auto"  height="300" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Website README Template</b></h3>
 
 </div>
 
@@ -27,7 +27,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#Deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -67,27 +67,12 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 
-<details>
-  <summary>tech 1</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
-  </ul>
-</details>
 
-<details>
-  <summary>tech 2</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">CSS</a></li>
-  </ul>
-</details>
+-**HTML**
 
-<details>
-<summary>tech 3</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">JavaScript</a></li>
-  </ul>
-</details>
+-**CSS/Bootstrap**
 
+-**JavaScript**
 
 
 ### Key Features <a name="key-features"></a>
@@ -121,20 +106,23 @@ In order to run this project you need:
 
 
 
+```sh
+ install vs code on computer
+```
+ -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
 
-### run the following command if you are using the terminal or cmd
 
-<code>git clone git@github.com:ijosue16/Mobile-portofolio.git</code>
 
-**and add**
-
-Prerequisites
-In order to run this project you need:
+```sh
+  cd `<folder name>`
+  git clone https://github.com/ijosue16/Tourism-website.git
+```
+-
 
 ### Install
 
@@ -142,21 +130,42 @@ Install this project with:
 
 
 
+```sh
+  Open folder using vs code
+
+  open terminal 
+
+  run `"npm install"` to install all dependencies.
+
+```
 
 ### Usage
 
 To run the project, execute the following command:
 
-`npm start`
+
+
+```sh
+
+run `" npm run build"` and then
+
+run `" npm start"`
+```
 
 ### Run tests
 
 To run tests, run the following command:
 
-`npm run  test`
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
 
 
-### Deployment
+### Deployment <a name="deployment"></a>
 
 You can deploy this project using:
 
@@ -207,13 +216,15 @@ Feel free to check the issues page.
 
 
 
-If you like this project...
+If you like this project offer me a star ⭐
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I give thanks to Microverse.
 
 
 
@@ -223,11 +234,10 @@ If you like this project...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Is it free to use such website]**
 
-  - [Yes.After reaching me out on my email or slack]
+  - [Yes. After reaching me out on my email or slack]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
