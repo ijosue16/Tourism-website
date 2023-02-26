@@ -184,6 +184,7 @@ Github web pages.
 👤 **Author1**
 
 - GitHub: [@ijosue16](https://github.com/ijosue16)
+- LinkedIn: [Iradukunda Twahirwa Josue](https://www.linkedin.com/in/iradukunda-twahirwa-josue/)
 
 
 
